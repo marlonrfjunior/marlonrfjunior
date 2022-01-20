@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Marlon Rezende Ferreira Junior
 - 👀 I’m interested in code and football.
-- 🌱 I’m currently learning flutter an Swift.
-- 💞️ I’m looking to collaborate on projects that could improve people lives. 
-- 📫 For contacts (34) 98412-7589 or marlonrfjunior@outlok.com.
- 
-
+- 🌱 I’m currently improving my knowledge in automation tests.
+- 💞️ I’m looking to collaborate on projects that can improve people lives. 
+- 📫 For contacts: +55 (34) 98412-7589 or marlonrfjunior@outlok.com
